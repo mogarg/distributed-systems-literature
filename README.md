@@ -17,9 +17,12 @@ A collection of interesting papers in Distributed systems
 
 ### Advanced
 
-## Databases
+## Big Data
 
 - [ ] [DynamoDB](#)
+- [ ] [Zookeeper](#)
+- [ ] [Cassandra](#)
+- [ ] [Memcache](#)
 
 ## Cryptocurrency
 
