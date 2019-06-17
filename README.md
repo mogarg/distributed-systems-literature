@@ -31,7 +31,7 @@ A collection of interesting papers in Distributed systems
 ### Basics
 
 - [x] [Bitcoin](#)
-- [ ] [The Bitcoin Backbone Protocol: Analysis and Applications (*Byzantine Agreement correspondence to chain*](https://eprint.iacr.org/2014/765.pdf)
+- [ ] [The Bitcoin Backbone Protocol: Analysis and Applications (*Byzantine Agreement correspondence to chain*)](https://eprint.iacr.org/2014/765.pdf)
 
 ### Intermediate
 
