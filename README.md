@@ -1,6 +1,6 @@
 # Distributed Systems Literature
 
-A collection of interesting papers in Distributed systems
+---
 
 ## Distributed Systems Foundations
 
@@ -19,15 +19,12 @@ A collection of interesting papers in Distributed systems
 
 - [x] [Next 700 BFT Protocols](#)
 
-## Big Data
+## Enterprise
 
 - [ ] [DynamoDB](#)
 - [ ] [Zookeeper](#)
 - [ ] [Cassandra](#)
 - [ ] [Memcache](#)
-
-## Database Systems Foundations
-
 
 ## Cryptocurrency Foundations
 
