@@ -23,6 +23,11 @@
 - [x] 📄[Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf)
 - [x] 📄[Next 700 BFT Protocols](#http://vukolic.com/700-Eurosys.pdf)
 
+### Alt-Fault Tolerance
+
+- [x] 📄[Cross Fault Tolerance](https://www.usenix.org/system/files/conference/osdi16/osdi16-liu.pdf)
+- [x] 📄[Visigoth Fault Tolerance](https://www.gsd.inesc-id.pt/~rodrigo/vft_eurosys15.pdf)
+
 ## Enterprise
 
 - [ ] 📄[DynamoDB](#https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
