@@ -21,7 +21,7 @@
 ### Byzantine Fault Tolerance
 
 - [x] 📄[Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf)
-- [x] 📄[Next 700 BFT Protocols](#http://vukolic.com/700-Eurosys.pdf)
+- [x] 📄[Next 700 BFT Protocols](http://vukolic.com/700-Eurosys.pdf)
 
 ### Alt-Fault Tolerance
 
