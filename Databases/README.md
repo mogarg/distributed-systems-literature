@@ -125,3 +125,8 @@ TODO: Edit this to make it more relevant to my learning goals
 ### YugabyteDB
 
 - [ ] 🎥 [YugabyteDB: Bringing Together the Best of Amazon Aurora and Google Spanner](https://www.youtube.com/watch?v=DAFQcYXK2-o) (K Ranganathan 2020)
+
+### Facebook
+
+- [ ] 📄 [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/11730-atc13-bronson.pdf)
+
